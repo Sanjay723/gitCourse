@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 87b5e61679f5a0060c1e8069e42371b195a7bec3 sanjay723 <sanjaygovinds44@gmail.com> 1754128803 +0530	clone: from https://github.com/Sanjay723/gitCourse.git
-87b5e61679f5a0060c1e8069e42371b195a7bec3 1890ad6dd3ae43411e17fd73b07ed0ae019c1701 sanjay723 <sanjaygovinds44@gmail.com> 1754130513 +0530	commit: Initial commit
-1890ad6dd3ae43411e17fd73b07ed0ae019c1701 01eda4a6e6e272d61a5a316f5a9dd5ac080bde72 sanjay723 <sanjaygovinds44@gmail.com> 1754134708 +0530	commit: Main branch commit
-01eda4a6e6e272d61a5a316f5a9dd5ac080bde72 1890ad6dd3ae43411e17fd73b07ed0ae019c1701 sanjay723 <sanjaygovinds44@gmail.com> 1754134819 +0530	checkout: moving from main to featureBranch
-1890ad6dd3ae43411e17fd73b07ed0ae019c1701 fe32f77799ceeacf2ca2d34b700d1d4fe0dc3563 sanjay723 <sanjaygovinds44@gmail.com> 1754134993 +0530	commit: Feature branch commit
-fe32f77799ceeacf2ca2d34b700d1d4fe0dc3563 01eda4a6e6e272d61a5a316f5a9dd5ac080bde72 sanjay723 <sanjaygovinds44@gmail.com> 1754135057 +0530	checkout: moving from featureBranch to main
-01eda4a6e6e272d61a5a316f5a9dd5ac080bde72 1c3d17a64b477114d1922928bb81778effa70fd1 sanjay723 <sanjaygovinds44@gmail.com> 1754138883 +0530	pull: Fast-forward
